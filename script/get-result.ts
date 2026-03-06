@@ -1,7 +1,7 @@
 import { HighDensitySolver } from "@tscircuit/capacity-autorouter";
 import { readFileSync } from "node:fs";
 import { readdir } from "node:fs/promises";
-import type { NodeWithPortPoints } from "./calculate-mean";
+import type { NodeWithPortPoints } from "./calculate-mse";
 
 
 const main = async () => {
