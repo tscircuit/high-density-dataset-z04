@@ -1,0 +1,23 @@
+{
+  "name": "high-density-dataset-z04",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "@types/bun": "^1.3.10",
+    "@types/node": "^25.3.5"
+  },
+  "private": true,
+  "peerDependencies": {
+    "typescript": "^5"
+  },
+  "dependencies": {
+    "@tscircuit/capacity-autorouter": "^0.0.317"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "capacityMeshNodeId": "cmn_208",
+  "center": {
+    "x": 22.56,
+    "y": 3.75
+  },
+  "width": 1.5,
+  "height": 1.5,
+  "portPoints": [
+    {
+      "portPointId": "ce580_pp1_z0::0",
+      "x": 21.81,
+      "y": 3.575,
+      "z": 0,
+      "connectionName": "source_net_18",
+      "rootConnectionName": "source_net_18"
+    },
+    {
+      "portPointId": "center:cmn_208:source_net_18:source_net_18",
+      "x": 22.56,
+      "y": 3.75,
+      "z": 0,
+      "connectionName": "source_net_18",
+      "rootConnectionName": "source_net_18"
+    }
+  ],
+  "availableZ": [
+    0,
+    1
+  ]
+}

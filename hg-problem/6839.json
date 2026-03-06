@@ -1,0 +1,31 @@
+{
+  "capacityMeshNodeId": "cmn_75",
+  "center": {
+    "x": -11.43,
+    "y": 4.440892098500626e-16
+  },
+  "width": 1.8796,
+  "height": 1.8796,
+  "portPoints": [
+    {
+      "portPointId": "ce7_pp0_z0::0",
+      "x": -10.4902,
+      "y": -0.7147999999999995,
+      "z": 0,
+      "connectionName": "source_trace_3",
+      "rootConnectionName": "source_trace_3"
+    },
+    {
+      "portPointId": "center:cmn_75:source_trace_3:source_trace_3",
+      "x": -11.43,
+      "y": 4.440892098500626e-16,
+      "z": 0,
+      "connectionName": "source_trace_3",
+      "rootConnectionName": "source_trace_3"
+    }
+  ],
+  "availableZ": [
+    0,
+    1
+  ]
+}

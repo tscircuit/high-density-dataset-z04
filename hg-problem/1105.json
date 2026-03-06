@@ -1,0 +1,30 @@
+{
+  "capacityMeshNodeId": "cmn_202",
+  "center": {
+    "x": -6.795,
+    "y": 20.32
+  },
+  "width": 0.7999999999999998,
+  "height": 0.9499999999999993,
+  "portPoints": [
+    {
+      "portPointId": "ce670_pp0_z0::0",
+      "x": -7.089999999999999,
+      "y": 19.845,
+      "z": 0,
+      "connectionName": "source_trace_19",
+      "rootConnectionName": "source_trace_19"
+    },
+    {
+      "portPointId": "center:cmn_202:source_trace_19:source_trace_19",
+      "x": -6.795,
+      "y": 20.32,
+      "z": 0,
+      "connectionName": "source_trace_19",
+      "rootConnectionName": "source_trace_19"
+    }
+  ],
+  "availableZ": [
+    0
+  ]
+}

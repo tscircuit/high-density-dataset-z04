@@ -1,0 +1,79 @@
+{
+  "capacityMeshNodeId": "cmn_12",
+  "center": {
+    "x": 7.074999999999998,
+    "y": 0.08750000000000036
+  },
+  "width": 2.549999999999999,
+  "height": 4.875,
+  "portPoints": [
+    {
+      "portPointId": "ce268_pp0_z1_cramped::1",
+      "x": 5.91,
+      "y": 2.5250000000000004,
+      "z": 1,
+      "connectionName": "source_net_15_mst2",
+      "rootConnectionName": "source_net_15"
+    },
+    {
+      "portPointId": "ce50_pp3_z0::0",
+      "x": 7.091666666666667,
+      "y": -2.3499999999999996,
+      "z": 0,
+      "connectionName": "source_net_15_mst2",
+      "rootConnectionName": "source_net_15"
+    },
+    {
+      "portPointId": "ce264_pp0_z0_cramped::0",
+      "x": 5.799999999999999,
+      "y": -0.525,
+      "z": 0,
+      "connectionName": "source_net_5_mst1",
+      "rootConnectionName": "source_net_5"
+    },
+    {
+      "portPointId": "ce63_pp4_z0::0",
+      "x": 8.349999999999998,
+      "y": 1.3062500000000004,
+      "z": 0,
+      "connectionName": "source_net_5_mst1",
+      "rootConnectionName": "source_net_5"
+    },
+    {
+      "portPointId": "ce50_pp2_z0::0",
+      "x": 6.574999999999999,
+      "y": -2.3499999999999996,
+      "z": 0,
+      "connectionName": "source_net_18_mst2",
+      "rootConnectionName": "source_net_18"
+    },
+    {
+      "portPointId": "ce63_pp2_z0::0",
+      "x": 8.349999999999998,
+      "y": -1.1312499999999996,
+      "z": 0,
+      "connectionName": "source_net_18_mst2",
+      "rootConnectionName": "source_net_18"
+    },
+    {
+      "portPointId": "ce263_pp0_z0_cramped::0",
+      "x": 5.799999999999999,
+      "y": -1.4749999999999999,
+      "z": 0,
+      "connectionName": "source_net_0_mst2",
+      "rootConnectionName": "source_net_0"
+    },
+    {
+      "portPointId": "ce50_pp1_z0::0",
+      "x": 6.058333333333333,
+      "y": -2.3499999999999996,
+      "z": 0,
+      "connectionName": "source_net_0_mst2",
+      "rootConnectionName": "source_net_0"
+    }
+  ],
+  "availableZ": [
+    0,
+    1
+  ]
+}

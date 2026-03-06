@@ -1,0 +1,30 @@
+{
+  "capacityMeshNodeId": "cmn_91",
+  "center": {
+    "x": 3.7,
+    "y": -7.449999999999999
+  },
+  "width": 1,
+  "height": 0.7000000000000002,
+  "portPoints": [
+    {
+      "portPointId": "ce350_pp0_z0::0",
+      "x": 3.4250000000000003,
+      "y": -7.1,
+      "z": 0,
+      "connectionName": "source_net_7_mst1",
+      "rootConnectionName": "source_net_7"
+    },
+    {
+      "portPointId": "center:cmn_91:source_net_7_mst1:source_net_7",
+      "x": 3.7,
+      "y": -7.449999999999999,
+      "z": 0,
+      "connectionName": "source_net_7_mst1",
+      "rootConnectionName": "source_net_7"
+    }
+  ],
+  "availableZ": [
+    0
+  ]
+}

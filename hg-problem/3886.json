@@ -1,0 +1,62 @@
+{
+  "capacityMeshNodeId": "cmn_160",
+  "center": {
+    "x": -24.3,
+    "y": -13
+  },
+  "width": 1,
+  "height": 2.599999999999998,
+  "portPoints": [
+    {
+      "portPointId": "ce189_pp0_z1::1",
+      "x": -24.575,
+      "y": -14.299999999999997,
+      "z": 1,
+      "connectionName": "source_net_19_mst0",
+      "rootConnectionName": "source_net_19"
+    },
+    {
+      "portPointId": "ce996_pp3_z1::1",
+      "x": -24.800000000000004,
+      "y": -13,
+      "z": 1,
+      "connectionName": "source_net_19_mst0",
+      "rootConnectionName": "source_net_19"
+    },
+    {
+      "portPointId": "ce996_pp5_z1::1",
+      "x": -24.800000000000004,
+      "y": -12.283333333333335,
+      "z": 1,
+      "connectionName": "source_net_12_mst1",
+      "rootConnectionName": "source_net_12"
+    },
+    {
+      "portPointId": "ce189_pp1_z1::1",
+      "x": -24.025000000000002,
+      "y": -14.299999999999997,
+      "z": 1,
+      "connectionName": "source_net_12_mst1",
+      "rootConnectionName": "source_net_12"
+    },
+    {
+      "portPointId": "ce677_pp3_z1::1",
+      "x": -23.8,
+      "y": -13,
+      "z": 1,
+      "connectionName": "source_net_23_mst1",
+      "rootConnectionName": "source_net_23"
+    },
+    {
+      "portPointId": "ce6_pp0_z1::1",
+      "x": -24.575,
+      "y": -11.700000000000001,
+      "z": 1,
+      "connectionName": "source_net_23_mst1",
+      "rootConnectionName": "source_net_23"
+    }
+  ],
+  "availableZ": [
+    1
+  ]
+}

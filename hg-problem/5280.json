@@ -1,0 +1,95 @@
+{
+  "capacityMeshNodeId": "cmn_5",
+  "center": {
+    "x": -3.175,
+    "y": 0.7725
+  },
+  "width": 4.85,
+  "height": 7.575000000000001,
+  "portPoints": [
+    {
+      "portPointId": "ce59_pp0_z0::0",
+      "x": -5.6,
+      "y": 3.2850000000000006,
+      "z": 0,
+      "connectionName": "source_net_3",
+      "rootConnectionName": "source_net_3"
+    },
+    {
+      "portPointId": "ce66_pp0_z1::1",
+      "x": -0.75,
+      "y": 0,
+      "z": 1,
+      "connectionName": "source_net_3",
+      "rootConnectionName": "source_net_3"
+    },
+    {
+      "portPointId": "ce57_pp0_z1::1",
+      "x": -5.6,
+      "y": 0.745,
+      "z": 1,
+      "connectionName": "source_net_2_mst0",
+      "rootConnectionName": "source_net_2"
+    },
+    {
+      "portPointId": "ce67_pp1_z0::0",
+      "x": -0.75,
+      "y": 1.095,
+      "z": 0,
+      "connectionName": "source_net_2_mst0",
+      "rootConnectionName": "source_net_2"
+    },
+    {
+      "portPointId": "ce55_pp0_z1::1",
+      "x": -5.6,
+      "y": -1.795,
+      "z": 1,
+      "connectionName": "source_net_1_mst0",
+      "rootConnectionName": "source_net_1"
+    },
+    {
+      "portPointId": "ce63_pp1_z0::0",
+      "x": -0.75,
+      "y": -1.445,
+      "z": 0,
+      "connectionName": "source_net_1_mst0",
+      "rootConnectionName": "source_net_1"
+    },
+    {
+      "portPointId": "ce63_pp0_z1::1",
+      "x": -0.75,
+      "y": -1.795,
+      "z": 1,
+      "connectionName": "source_net_1_mst1",
+      "rootConnectionName": "source_net_1"
+    },
+    {
+      "portPointId": "ce68_pp2_z1::1",
+      "x": -0.75,
+      "y": 3.29,
+      "z": 1,
+      "connectionName": "source_net_1_mst1",
+      "rootConnectionName": "source_net_1"
+    },
+    {
+      "portPointId": "ce54_pp0_z0::0",
+      "x": -5.6,
+      "y": -2.5175,
+      "z": 0,
+      "connectionName": "source_net_0",
+      "rootConnectionName": "source_net_0"
+    },
+    {
+      "portPointId": "ce60_pp0_z0::0",
+      "x": -0.9874999999999998,
+      "y": 4.5600000000000005,
+      "z": 0,
+      "connectionName": "source_net_0",
+      "rootConnectionName": "source_net_0"
+    }
+  ],
+  "availableZ": [
+    0,
+    1
+  ]
+}
