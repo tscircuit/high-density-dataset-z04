@@ -2,6 +2,10 @@
   "name": "high-density-dataset-z04",
   "version": "1.0.0",
   "main": "./hg-problem/index.ts",
+  "exports": {
+    ".": "./hg-problem/index.ts",
+    "./results": "./results/index.ts"
+  },
   "author": "tscircuit",
   "license": "MIT",
   "devDependencies": {
