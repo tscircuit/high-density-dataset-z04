@@ -13,23 +13,6 @@ import hardProblem5663 from "../hg-problem/5663.json";
 import hardProblem6025 from "../hg-problem/6025.json";
 import hardProblem6192 from "../hg-problem/6192.json";
 
-export const hardProblemMap = {
-  2100: hardProblem2100,
-  2133: hardProblem2133,
-  2377: hardProblem2377,
-  3230: hardProblem3230,
-  3640: hardProblem3640,
-  4390: hardProblem4390,
-  4822: hardProblem4822,
-  4911: hardProblem4911,
-  4915: hardProblem4915,
-  5045: hardProblem5045,
-  5572: hardProblem5572,
-  5663: hardProblem5663,
-  6025: hardProblem6025,
-  6192: hardProblem6192,
-} as const;
-
 export const hardProblems = [
   { id: 2100, data: hardProblem2100 },
   { id: 2133, data: hardProblem2133 },
@@ -46,21 +29,3 @@ export const hardProblems = [
   { id: 6025, data: hardProblem6025 },
   { id: 6192, data: hardProblem6192 },
 ] as const;
-
-export default hardProblemMap;
-export {
-  hardProblem2100,
-  hardProblem2133,
-  hardProblem2377,
-  hardProblem3230,
-  hardProblem3640,
-  hardProblem4390,
-  hardProblem4822,
-  hardProblem4911,
-  hardProblem4915,
-  hardProblem5045,
-  hardProblem5572,
-  hardProblem5663,
-  hardProblem6025,
-  hardProblem6192,
-};
