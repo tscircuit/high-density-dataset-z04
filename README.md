@@ -5,6 +5,7 @@ A dataset package for high-density autorouting problems from `autorouter-dataset
 ## What this package contains
 
 - Problem files exported as JSON in the `hg-problem/` directory
+- Recovered hard problems exported through `hard-problem/`
 - Versioned run results in the `results/` directory
 - Utility scripts in the `script/` directory
 
