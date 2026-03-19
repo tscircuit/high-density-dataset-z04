@@ -5,6 +5,7 @@ A dataset package for high-density autorouting problems from `autorouter-dataset
 ## What this package contains
 
 - Problem files exported as JSON in the `hg-problem/` directory
+- Large-node subset (`z04-large/`) where `width >= 5` and `height >= 5`
 - Known solvable problems that are hard to solve `hard-problem/`
 - Versioned run results in the `results/` directory
 - Utility scripts in the `script/` directory
@@ -15,6 +16,12 @@ Install directly from GitHub:
 
 ```bash
 bun add https://github.com/tscircuit/high-density-dataset-z04.git
+```
+
+Import the large-node subset:
+
+```ts
+import { z04LargeProblems } from "high-density-dataset-z04/z04-large";
 ```
 
 ## Results format
@@ -29,5 +36,6 @@ Each file records whether each problem succeeded for a specific autorouter versi
 
 - `script/get-result.ts`: Runs all problems against a target autorouter version and saves the result summary as JSON.
 - `script/calculate-mse.ts`: Calculates the latest MSE score from generated results.
+- `script/generate-z04-large-index.ts`: Regenerates `z04-large/index.ts` from nodes where `width >= 5` and `height >= 5`.
 
  
