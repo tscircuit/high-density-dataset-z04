@@ -1,0 +1,33 @@
+{
+  "capacityMeshNodeId": "cmn_265",
+  "center": {
+    "x": -13.65,
+    "y": 2.5
+  },
+  "width": 3,
+  "height": 3,
+  "portPoints": [
+    {
+      "portPointId": "ce803_pp1_z0::0",
+      "x": -13.825000000000001,
+      "y": 3.25,
+      "z": 0,
+      "connectionName": "source_net_24",
+      "rootConnectionName": "source_net_24"
+    },
+    {
+      "portPointId": "center:cmn_265:source_net_24:source_net_24",
+      "x": -13.65,
+      "y": 2.5,
+      "z": 0,
+      "connectionName": "source_net_24",
+      "rootConnectionName": "source_net_24"
+    }
+  ],
+  "availableZ": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

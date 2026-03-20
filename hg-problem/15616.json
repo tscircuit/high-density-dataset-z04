@@ -1,0 +1,31 @@
+{
+  "capacityMeshNodeId": "cmn_66",
+  "center": {
+    "x": 0.6289258094753485,
+    "y": -11.69750524103643
+  },
+  "width": 1.1275,
+  "height": 2.9698818348394767,
+  "portPoints": [
+    {
+      "portPointId": "ce280_pp0_z0::0",
+      "x": 0.8054004047376744,
+      "y": -10.95503478232656,
+      "z": 0,
+      "connectionName": "source_net_1_mst0",
+      "rootConnectionName": "source_net_1"
+    },
+    {
+      "portPointId": "center:cmn_66:source_net_1_mst0:source_net_1",
+      "x": 0.6289258094753485,
+      "y": -11.69750524103643,
+      "z": 0,
+      "connectionName": "source_net_1_mst0",
+      "rootConnectionName": "source_net_1"
+    }
+  ],
+  "availableZ": [
+    0,
+    1
+  ]
+}
