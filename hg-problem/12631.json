@@ -1,0 +1,33 @@
+{
+  "capacityMeshNodeId": "cmn_232",
+  "center": {
+    "x": 24.65,
+    "y": -9
+  },
+  "width": 1.7999999999999972,
+  "height": 2.3999999999999986,
+  "portPoints": [
+    {
+      "portPointId": "ce923_pp1_z0::0",
+      "x": 24.2,
+      "y": -9,
+      "z": 0,
+      "connectionName": "source_net_3",
+      "rootConnectionName": "source_net_3"
+    },
+    {
+      "portPointId": "center:cmn_232:source_net_3:source_net_3",
+      "x": 24.65,
+      "y": -9,
+      "z": 0,
+      "connectionName": "source_net_3",
+      "rootConnectionName": "source_net_3"
+    }
+  ],
+  "availableZ": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

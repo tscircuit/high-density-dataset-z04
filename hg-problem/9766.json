@@ -1,0 +1,81 @@
+{
+  "capacityMeshNodeId": "cmn_61",
+  "center": {
+    "x": -7.557062499999999,
+    "y": 5.147499999999999
+  },
+  "width": 7.903750000000008,
+  "height": 3.1899999999999995,
+  "portPoints": [
+    {
+      "portPointId": "ce168_pp3_z0::0",
+      "x": -6.569093749999998,
+      "y": 5.9449999999999985,
+      "z": 0,
+      "connectionName": "source_net_28",
+      "rootConnectionName": "source_net_28"
+    },
+    {
+      "portPointId": "ce40_pp6_z1::1",
+      "x": -6.569093749999998,
+      "y": 4.3500000000000005,
+      "z": 1,
+      "connectionName": "source_net_28",
+      "rootConnectionName": "source_net_28"
+    },
+    {
+      "portPointId": "ce40_pp1_z1::1",
+      "x": -8.545031250000001,
+      "y": 4.3500000000000005,
+      "z": 1,
+      "connectionName": "source_net_18_mst1",
+      "rootConnectionName": "source_net_18"
+    },
+    {
+      "portPointId": "ce168_pp3_z1::1",
+      "x": -7.557062499999999,
+      "y": 5.9449999999999985,
+      "z": 1,
+      "connectionName": "source_net_18_mst1",
+      "rootConnectionName": "source_net_18"
+    },
+    {
+      "portPointId": "ce676_pp0_z1::1",
+      "x": -9.533000000000001,
+      "y": 4.8275,
+      "z": 1,
+      "connectionName": "source_net_13_mst1",
+      "rootConnectionName": "source_net_13"
+    },
+    {
+      "portPointId": "ce40_pp3_z0::0",
+      "x": -6.569093749999998,
+      "y": 4.3500000000000005,
+      "z": 0,
+      "connectionName": "source_net_13_mst1",
+      "rootConnectionName": "source_net_13"
+    },
+    {
+      "portPointId": "ce168_pp1_z0::0",
+      "x": -8.545031250000001,
+      "y": 5.9449999999999985,
+      "z": 0,
+      "connectionName": "source_net_16_mst2",
+      "rootConnectionName": "source_net_16"
+    },
+    {
+      "portPointId": "ce40_pp1_z0::0",
+      "x": -8.545031250000001,
+      "y": 4.3500000000000005,
+      "z": 0,
+      "connectionName": "source_net_16_mst2",
+      "rootConnectionName": "source_net_16"
+    }
+  ],
+  "availableZ": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

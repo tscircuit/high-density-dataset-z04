@@ -1,0 +1,33 @@
+{
+  "capacityMeshNodeId": "cmn_172",
+  "center": {
+    "x": -8.8,
+    "y": -7.5
+  },
+  "width": 2,
+  "height": 1.4000000000000004,
+  "portPoints": [
+    {
+      "portPointId": "ce502_pp0_z0::0",
+      "x": -8.3,
+      "y": -7.5,
+      "z": 0,
+      "connectionName": "source_net_15",
+      "rootConnectionName": "source_net_15"
+    },
+    {
+      "portPointId": "center:cmn_172:source_net_15:source_net_15",
+      "x": -8.8,
+      "y": -7.5,
+      "z": 0,
+      "connectionName": "source_net_15",
+      "rootConnectionName": "source_net_15"
+    }
+  ],
+  "availableZ": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

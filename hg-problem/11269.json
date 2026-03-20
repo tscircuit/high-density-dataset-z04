@@ -1,0 +1,33 @@
+{
+  "capacityMeshNodeId": "cmn_77",
+  "center": {
+    "x": -14,
+    "y": 3.8100000000000005
+  },
+  "width": 3,
+  "height": 3,
+  "portPoints": [
+    {
+      "portPointId": "ce80_pp0_z0::0",
+      "x": -13.25,
+      "y": 3.2850000000000006,
+      "z": 0,
+      "connectionName": "source_net_6_mst1",
+      "rootConnectionName": "source_net_6"
+    },
+    {
+      "portPointId": "center:cmn_77:source_net_6_mst1:source_net_6",
+      "x": -14,
+      "y": 3.8100000000000005,
+      "z": 0,
+      "connectionName": "source_net_6_mst1",
+      "rootConnectionName": "source_net_6"
+    }
+  ],
+  "availableZ": [
+    0,
+    1,
+    2,
+    3
+  ]
+}
