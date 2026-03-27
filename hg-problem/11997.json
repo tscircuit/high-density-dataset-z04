@@ -1,0 +1,79 @@
+{
+  "capacityMeshNodeId": "cmn_100",
+  "center": {
+    "x": -0.19206249999999914,
+    "y": 5.147499999999999
+  },
+  "width": 1.208125,
+  "height": 1.5949999999999998,
+  "portPoints": [
+    {
+      "portPointId": "ce174_pp2_z1::1",
+      "x": -0.19206249999999914,
+      "y": 5.9449999999999985,
+      "z": 1,
+      "connectionName": "source_net_28",
+      "rootConnectionName": "source_net_28"
+    },
+    {
+      "portPointId": "ce46_pp2_z1::1",
+      "x": 0.10996875000000084,
+      "y": 4.3500000000000005,
+      "z": 1,
+      "connectionName": "source_net_28",
+      "rootConnectionName": "source_net_28"
+    },
+    {
+      "portPointId": "ce671_pp0_z0::0",
+      "x": -0.7961249999999991,
+      "y": 5.147499999999999,
+      "z": 0,
+      "connectionName": "source_net_13_mst1",
+      "rootConnectionName": "source_net_13"
+    },
+    {
+      "portPointId": "ce46_pp2_z0::0",
+      "x": -0.19206249999999914,
+      "y": 4.3500000000000005,
+      "z": 0,
+      "connectionName": "source_net_13_mst1",
+      "rootConnectionName": "source_net_13"
+    },
+    {
+      "portPointId": "ce174_pp2_z0::0",
+      "x": -0.19206249999999914,
+      "y": 5.9449999999999985,
+      "z": 0,
+      "connectionName": "source_net_9",
+      "rootConnectionName": "source_net_9"
+    },
+    {
+      "portPointId": "ce5_pp0_z0::0",
+      "x": 0.41199999999999903,
+      "y": 5.147499999999999,
+      "z": 0,
+      "connectionName": "source_net_9",
+      "rootConnectionName": "source_net_9"
+    },
+    {
+      "portPointId": "ce671_pp0_z1::1",
+      "x": -0.7961249999999991,
+      "y": 5.147499999999999,
+      "z": 1,
+      "connectionName": "source_net_1_mst1",
+      "rootConnectionName": "source_net_1"
+    },
+    {
+      "portPointId": "ce46_pp0_z1::1",
+      "x": -0.4940937499999991,
+      "y": 4.3500000000000005,
+      "z": 1,
+      "connectionName": "source_net_1_mst1",
+      "rootConnectionName": "source_net_1"
+    }
+  ],
+  "availableZ": [
+    0,
+    1
+  ]
+}

@@ -1,0 +1,30 @@
+{
+  "capacityMeshNodeId": "cmn_195",
+  "center": {
+    "x": 21.7,
+    "y": 1.4500000000000002
+  },
+  "width": 1,
+  "height": 0.7,
+  "portPoints": [
+    {
+      "portPointId": "ce770_pp0_z0::0",
+      "x": 21.425,
+      "y": 1.8,
+      "z": 0,
+      "connectionName": "source_net_6_mst0",
+      "rootConnectionName": "source_net_6"
+    },
+    {
+      "portPointId": "tiny-terminal:end-port:source_net_6_mst0",
+      "x": 21.7,
+      "y": 1.45,
+      "z": 0,
+      "connectionName": "source_net_6_mst0",
+      "rootConnectionName": "source_net_6"
+    }
+  ],
+  "availableZ": [
+    0
+  ]
+}

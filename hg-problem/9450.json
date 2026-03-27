@@ -1,0 +1,31 @@
+{
+  "capacityMeshNodeId": "cmn_53",
+  "center": {
+    "x": -17,
+    "y": 5.08
+  },
+  "width": 1.5,
+  "height": 1.04,
+  "portPoints": [
+    {
+      "portPointId": "ce435_pp3_z0::0",
+      "x": -16.475,
+      "y": 5.6,
+      "z": 0,
+      "connectionName": "source_net_12_mst0",
+      "rootConnectionName": "source_net_12"
+    },
+    {
+      "portPointId": "ce81_pp0_z0::0",
+      "x": -16.25,
+      "y": 5.08,
+      "z": 0,
+      "connectionName": "source_net_12_mst0",
+      "rootConnectionName": "source_net_12"
+    }
+  ],
+  "availableZ": [
+    0,
+    1
+  ]
+}

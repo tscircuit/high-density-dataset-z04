@@ -1,0 +1,95 @@
+{
+  "capacityMeshNodeId": "cmn_1",
+  "center": {
+    "x": 6.41,
+    "y": -18.8625
+  },
+  "width": 27.53,
+  "height": 21.325000000000003,
+  "portPoints": [
+    {
+      "portPointId": "ce30_pp0_z0::0",
+      "x": -7.355,
+      "y": -13.65,
+      "z": 0,
+      "connectionName": "source_net_18_mst1",
+      "rootConnectionName": "source_net_18"
+    },
+    {
+      "portPointId": "ce47_pp7_z0::0",
+      "x": 18.95583333333333,
+      "y": -29.525000000000006,
+      "z": 0,
+      "connectionName": "source_net_18_mst1",
+      "rootConnectionName": "source_net_18"
+    },
+    {
+      "portPointId": "ce45_pp8_z0::0",
+      "x": 13.612499999999999,
+      "y": -8.2,
+      "z": 0,
+      "connectionName": "source_net_15_mst1",
+      "rootConnectionName": "source_net_15"
+    },
+    {
+      "portPointId": "ce47_pp4_z0::0",
+      "x": 16.5175,
+      "y": -29.525000000000006,
+      "z": 0,
+      "connectionName": "source_net_15_mst1",
+      "rootConnectionName": "source_net_15"
+    },
+    {
+      "portPointId": "ce53_pp0_z0::0",
+      "x": 19.375000000000004,
+      "y": -8.2,
+      "z": 0,
+      "connectionName": "source_net_10",
+      "rootConnectionName": "source_net_10"
+    },
+    {
+      "portPointId": "ce47_pp1_z0::0",
+      "x": 14.079166666666666,
+      "y": -29.525000000000006,
+      "z": 0,
+      "connectionName": "source_net_10",
+      "rootConnectionName": "source_net_10"
+    },
+    {
+      "portPointId": "ce39_pp1_z0::0",
+      "x": 4.975,
+      "y": -29.525,
+      "z": 0,
+      "connectionName": "source_net_9_mst1",
+      "rootConnectionName": "source_net_9"
+    },
+    {
+      "portPointId": "ce52_pp1_z1::1",
+      "x": 19.95,
+      "y": -8.2,
+      "z": 1,
+      "connectionName": "source_net_9_mst1",
+      "rootConnectionName": "source_net_9"
+    },
+    {
+      "portPointId": "ce29_pp6_z1::1",
+      "x": -5.777500000000001,
+      "y": -8.2,
+      "z": 1,
+      "connectionName": "source_net_0_mst2",
+      "rootConnectionName": "source_net_0"
+    },
+    {
+      "portPointId": "ce41_pp1_z0::0",
+      "x": 6.625,
+      "y": -29.525,
+      "z": 0,
+      "connectionName": "source_net_0_mst2",
+      "rootConnectionName": "source_net_0"
+    }
+  ],
+  "availableZ": [
+    0,
+    1
+  ]
+}

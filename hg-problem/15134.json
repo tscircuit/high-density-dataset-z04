@@ -1,0 +1,95 @@
+{
+  "capacityMeshNodeId": "cmn_8",
+  "center": {
+    "x": 14.685,
+    "y": 6.6375
+  },
+  "width": 7.41,
+  "height": 2.7750000000000004,
+  "portPoints": [
+    {
+      "portPointId": "ce22_pp1_z1::1",
+      "x": 10.98,
+      "y": 7.331250000000001,
+      "z": 1,
+      "connectionName": "source_net_25",
+      "rootConnectionName": "source_net_25"
+    },
+    {
+      "portPointId": "ce180_pp1_z1::1",
+      "x": 18.39,
+      "y": 5.778333333333334,
+      "z": 1,
+      "connectionName": "source_net_25",
+      "rootConnectionName": "source_net_25"
+    },
+    {
+      "portPointId": "ce174_pp3_z0::0",
+      "x": 14.795,
+      "y": 5.25,
+      "z": 0,
+      "connectionName": "source_net_20_mst0",
+      "rootConnectionName": "source_net_20"
+    },
+    {
+      "portPointId": "ce182_pp0_z0_cramped::0",
+      "x": 18.3075,
+      "y": 8.025,
+      "z": 0,
+      "connectionName": "source_net_20_mst0",
+      "rootConnectionName": "source_net_20"
+    },
+    {
+      "portPointId": "ce22_pp0_z1::1",
+      "x": 10.98,
+      "y": 5.94375,
+      "z": 1,
+      "connectionName": "source_net_12",
+      "rootConnectionName": "source_net_12"
+    },
+    {
+      "portPointId": "ce175_pp6_z1::1",
+      "x": 16.705,
+      "y": 5.25,
+      "z": 1,
+      "connectionName": "source_net_12",
+      "rootConnectionName": "source_net_12"
+    },
+    {
+      "portPointId": "ce177_pp1_z0::0",
+      "x": 16.349999999999998,
+      "y": 8.025,
+      "z": 0,
+      "connectionName": "source_net_1_mst0",
+      "rootConnectionName": "source_net_1"
+    },
+    {
+      "portPointId": "ce175_pp6_z0::0",
+      "x": 17.5475,
+      "y": 5.25,
+      "z": 0,
+      "connectionName": "source_net_1_mst0",
+      "rootConnectionName": "source_net_1"
+    },
+    {
+      "portPointId": "ce175_pp5_z0::0",
+      "x": 15.862499999999997,
+      "y": 5.25,
+      "z": 0,
+      "connectionName": "source_net_0_mst0",
+      "rootConnectionName": "source_net_0"
+    },
+    {
+      "portPointId": "ce179_pp0_z0::0",
+      "x": 17.650000000000006,
+      "y": 8.025,
+      "z": 0,
+      "connectionName": "source_net_0_mst0",
+      "rootConnectionName": "source_net_0"
+    }
+  ],
+  "availableZ": [
+    0,
+    1
+  ]
+}

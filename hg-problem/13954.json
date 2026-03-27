@@ -1,0 +1,30 @@
+{
+  "capacityMeshNodeId": "cmn_196",
+  "center": {
+    "x": 16.585786437626908,
+    "y": -16.070710678118655
+  },
+  "width": 0.5500000000000007,
+  "height": 0.8485281374238571,
+  "portPoints": [
+    {
+      "portPointId": "ce950_pp0_z0::0",
+      "x": 16.31078643762691,
+      "y": -15.823223304703365,
+      "z": 0,
+      "connectionName": "source_net_1_mst0",
+      "rootConnectionName": "source_net_1"
+    },
+    {
+      "portPointId": "tiny-terminal:end-port:source_net_1_mst0",
+      "x": 16.40900974233027,
+      "y": -16.247487373415293,
+      "z": 0,
+      "connectionName": "source_net_1_mst0",
+      "rootConnectionName": "source_net_1"
+    }
+  ],
+  "availableZ": [
+    0
+  ]
+}

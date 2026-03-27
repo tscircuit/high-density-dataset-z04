@@ -1,0 +1,30 @@
+{
+  "capacityMeshNodeId": "cmn_198",
+  "center": {
+    "x": -7.620000000000001,
+    "y": 21.132000000000005
+  },
+  "width": 1.2699999999999996,
+  "height": 0.6600000000000001,
+  "portPoints": [
+    {
+      "portPointId": "ce703_pp1_z1::1",
+      "x": -7.620000000000001,
+      "y": 21.462000000000003,
+      "z": 1,
+      "connectionName": "source_trace_18",
+      "rootConnectionName": "source_trace_18"
+    },
+    {
+      "portPointId": "tiny-terminal:end-port:source_trace_18",
+      "x": -7.62,
+      "y": 21.132,
+      "z": 1,
+      "connectionName": "source_trace_18",
+      "rootConnectionName": "source_trace_18"
+    }
+  ],
+  "availableZ": [
+    1
+  ]
+}

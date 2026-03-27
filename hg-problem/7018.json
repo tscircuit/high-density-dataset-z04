@@ -1,0 +1,30 @@
+{
+  "capacityMeshNodeId": "cmn_42",
+  "center": {
+    "x": 1.2700000000000002,
+    "y": 6.365
+  },
+  "width": 0.8999999999999999,
+  "height": 0.7000000000000002,
+  "portPoints": [
+    {
+      "portPointId": "ce75_pp0_z0::0",
+      "x": 1.0450000000000004,
+      "y": 6.715,
+      "z": 0,
+      "connectionName": "source_trace_1",
+      "rootConnectionName": "source_trace_1"
+    },
+    {
+      "portPointId": "tiny-terminal:end-port:source_trace_1",
+      "x": 1.2700000000000002,
+      "y": 6.365,
+      "z": 0,
+      "connectionName": "source_trace_1",
+      "rootConnectionName": "source_trace_1"
+    }
+  ],
+  "availableZ": [
+    0
+  ]
+}

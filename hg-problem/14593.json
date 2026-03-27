@@ -1,0 +1,30 @@
+{
+  "capacityMeshNodeId": "cmn_207",
+  "center": {
+    "x": -1.45,
+    "y": -20
+  },
+  "width": 0.6000000000000001,
+  "height": 0.4499999999999993,
+  "portPoints": [
+    {
+      "portPointId": "ce529_pp0_z0::0",
+      "x": -1.45,
+      "y": -20.225,
+      "z": 0,
+      "connectionName": "source_net_3",
+      "rootConnectionName": "source_net_3"
+    },
+    {
+      "portPointId": "tiny-terminal:end-port:source_net_3",
+      "x": -1.45,
+      "y": -20,
+      "z": 0,
+      "connectionName": "source_net_3",
+      "rootConnectionName": "source_net_3"
+    }
+  ],
+  "availableZ": [
+    0
+  ]
+}
