@@ -1,0 +1,30 @@
+{
+  "capacityMeshNodeId": "cmn_132",
+  "center": {
+    "x": -16.414213562373092,
+    "y": -1.5707106781186546
+  },
+  "width": 0.5500000000000007,
+  "height": 0.8485281374238571,
+  "portPoints": [
+    {
+      "portPointId": "tiny-terminal:start-port:source_net_8_mst0",
+      "x": -16.59099025766973,
+      "y": -1.7474873734152916,
+      "z": 0,
+      "connectionName": "source_net_8_mst0",
+      "rootConnectionName": "source_net_8"
+    },
+    {
+      "portPointId": "ce500_pp0_z0::0",
+      "x": -16.139213562373094,
+      "y": -1.9065863991822647,
+      "z": 0,
+      "connectionName": "source_net_8_mst0",
+      "rootConnectionName": "source_net_8"
+    }
+  ],
+  "availableZ": [
+    0
+  ]
+}

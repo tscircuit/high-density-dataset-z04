@@ -1,0 +1,46 @@
+{
+  "capacityMeshNodeId": "cmn_67",
+  "center": {
+    "x": 4.7,
+    "y": 5.050000000000001
+  },
+  "width": 1,
+  "height": 0.7000000000000002,
+  "portPoints": [
+    {
+      "portPointId": "ce56_pp0_z0::0",
+      "x": 4.2,
+      "y": 5.050000000000001,
+      "z": 0,
+      "connectionName": "source_net_5_mst2",
+      "rootConnectionName": "source_net_5"
+    },
+    {
+      "portPointId": "tiny-terminal:end-port:source_net_5_mst2",
+      "x": 4.7,
+      "y": 5.05,
+      "z": 0,
+      "connectionName": "source_net_5_mst2",
+      "rootConnectionName": "source_net_5"
+    },
+    {
+      "portPointId": "ce68_pp0_z0::0",
+      "x": 4.425,
+      "y": 4.700000000000001,
+      "z": 0,
+      "connectionName": "source_net_5_mst1",
+      "rootConnectionName": "source_net_5"
+    },
+    {
+      "portPointId": "tiny-terminal:end-port:source_net_5_mst1",
+      "x": 4.7,
+      "y": 5.05,
+      "z": 0,
+      "connectionName": "source_net_5_mst1",
+      "rootConnectionName": "source_net_5"
+    }
+  ],
+  "availableZ": [
+    0
+  ]
+}

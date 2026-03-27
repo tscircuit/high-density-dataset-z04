@@ -1,0 +1,97 @@
+{
+  "capacityMeshNodeId": "cmn_2",
+  "center": {
+    "x": 1.255,
+    "y": 8.265
+  },
+  "width": 6.01,
+  "height": 8.11,
+  "portPoints": [
+    {
+      "portPointId": "ce49_pp0_z0::0",
+      "x": -1.75,
+      "y": 4.4350000000000005,
+      "z": 0,
+      "connectionName": "source_net_9_mst1",
+      "rootConnectionName": "source_net_9"
+    },
+    {
+      "portPointId": "ce64_pp0_z0_cramped::0",
+      "x": 4.26,
+      "y": 4.28,
+      "z": 0,
+      "connectionName": "source_net_9_mst1",
+      "rootConnectionName": "source_net_9"
+    },
+    {
+      "portPointId": "ce52_pp0_z3_cramped::3",
+      "x": -1.75,
+      "y": 5.035,
+      "z": 3,
+      "connectionName": "source_net_5_mst0",
+      "rootConnectionName": "source_net_5"
+    },
+    {
+      "portPointId": "ce60_pp0_z3::3",
+      "x": 3.2874999999999996,
+      "y": 4.210000000000001,
+      "z": 3,
+      "connectionName": "source_net_5_mst0",
+      "rootConnectionName": "source_net_5"
+    },
+    {
+      "portPointId": "ce49_pp3_z0::0",
+      "x": -1.75,
+      "y": 5.510000000000001,
+      "z": 0,
+      "connectionName": "source_net_5_mst1",
+      "rootConnectionName": "source_net_5"
+    },
+    {
+      "portPointId": "ce51_pp0_z3::3",
+      "x": -1.75,
+      "y": 5.51,
+      "z": 3,
+      "connectionName": "source_net_5_mst1",
+      "rootConnectionName": "source_net_5"
+    },
+    {
+      "portPointId": "ce64_pp0_z1_cramped::1",
+      "x": 4.26,
+      "y": 4.28,
+      "z": 1,
+      "connectionName": "source_net_4_mst0",
+      "rootConnectionName": "source_net_4"
+    },
+    {
+      "portPointId": "ce68_pp0_z3::3",
+      "x": 4.26,
+      "y": 5.375,
+      "z": 3,
+      "connectionName": "source_net_4_mst0",
+      "rootConnectionName": "source_net_4"
+    },
+    {
+      "portPointId": "ce49_pp4_z0::0",
+      "x": -1.75,
+      "y": 5.868333333333334,
+      "z": 0,
+      "connectionName": "source_net_4_mst2",
+      "rootConnectionName": "source_net_4"
+    },
+    {
+      "portPointId": "ce67_pp0_z0::0",
+      "x": 4.26,
+      "y": 5.375,
+      "z": 0,
+      "connectionName": "source_net_4_mst2",
+      "rootConnectionName": "source_net_4"
+    }
+  ],
+  "availableZ": [
+    0,
+    1,
+    2,
+    3
+  ]
+}

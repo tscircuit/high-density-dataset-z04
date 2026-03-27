@@ -1,0 +1,30 @@
+{
+  "capacityMeshNodeId": "cmn_59",
+  "center": {
+    "x": -3.8250000000000006,
+    "y": 7
+  },
+  "width": 0.7999999999999998,
+  "height": 0.9500000000000002,
+  "portPoints": [
+    {
+      "portPointId": "ce94_pp1_z0::0",
+      "x": -3.650000000000001,
+      "y": 6.525,
+      "z": 0,
+      "connectionName": "source_trace_4",
+      "rootConnectionName": "source_trace_4"
+    },
+    {
+      "portPointId": "tiny-terminal:end-port:source_trace_4",
+      "x": -3.825,
+      "y": 7,
+      "z": 0,
+      "connectionName": "source_trace_4",
+      "rootConnectionName": "source_trace_4"
+    }
+  ],
+  "availableZ": [
+    0
+  ]
+}

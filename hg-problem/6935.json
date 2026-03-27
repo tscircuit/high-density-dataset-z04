@@ -1,0 +1,31 @@
+{
+  "capacityMeshNodeId": "cmn_39",
+  "center": {
+    "x": 0,
+    "y": -5.715
+  },
+  "width": 1.8796,
+  "height": 1.8796,
+  "portPoints": [
+    {
+      "portPointId": "ce88_pp2_z0::0",
+      "x": 0,
+      "y": -4.7752,
+      "z": 0,
+      "connectionName": "source_trace_0__source_trace_5_mst1",
+      "rootConnectionName": "source_trace_0__source_trace_5"
+    },
+    {
+      "portPointId": "tiny-terminal:end-port:source_trace_0__source_trace_5_mst1",
+      "x": 0,
+      "y": -5.715,
+      "z": 0,
+      "connectionName": "source_trace_0__source_trace_5_mst1",
+      "rootConnectionName": "source_trace_0__source_trace_5"
+    }
+  ],
+  "availableZ": [
+    0,
+    1
+  ]
+}

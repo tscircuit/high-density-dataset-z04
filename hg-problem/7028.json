@@ -1,0 +1,30 @@
+{
+  "capacityMeshNodeId": "cmn_37",
+  "center": {
+    "x": -2.5400000000000005,
+    "y": -5.97
+  },
+  "width": 1,
+  "height": 3,
+  "portPoints": [
+    {
+      "portPointId": "tiny-terminal:start-port:source_trace_0__source_trace_2_mst1",
+      "x": -2.5400000000000005,
+      "y": -5.97,
+      "z": 1,
+      "connectionName": "source_trace_0__source_trace_2_mst1",
+      "rootConnectionName": "source_trace_0__source_trace_2"
+    },
+    {
+      "portPointId": "ce36_pp1_z1::1",
+      "x": -2.2650000000000006,
+      "y": -4.47,
+      "z": 1,
+      "connectionName": "source_trace_0__source_trace_2_mst1",
+      "rootConnectionName": "source_trace_0__source_trace_2"
+    }
+  ],
+  "availableZ": [
+    1
+  ]
+}

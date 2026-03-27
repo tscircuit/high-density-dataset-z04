@@ -1,0 +1,30 @@
+{
+  "capacityMeshNodeId": "cmn_66",
+  "center": {
+    "x": 0.6289258094753485,
+    "y": -11.69750524103643
+  },
+  "width": 0.56375,
+  "height": 1.4849409174197383,
+  "portPoints": [
+    {
+      "portPointId": "tiny-terminal:start-port:source_net_1_mst0",
+      "x": 0.3814073164887748,
+      "y": -11.76382762134395,
+      "z": 0,
+      "connectionName": "source_net_1_mst0",
+      "rootConnectionName": "source_net_1"
+    },
+    {
+      "portPointId": "ce280_pp0_z0::0",
+      "x": 0.8054004047376744,
+      "y": -10.95503478232656,
+      "z": 0,
+      "connectionName": "source_net_1_mst0",
+      "rootConnectionName": "source_net_1"
+    }
+  ],
+  "availableZ": [
+    0
+  ]
+}
